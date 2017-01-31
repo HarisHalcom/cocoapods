@@ -1,0 +1,22 @@
+{
+  "name": "TestniPod",
+  "version": "0.1.0",
+  "summary": "A short description of TestniPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/harisa/TestniPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "harisa": "haris.alijagic@halcom.si"
+  },
+  "source": {
+    "git": "https://github.com/harisa/TestniPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestniPod/Classes/**/*"
+}

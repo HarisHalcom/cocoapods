@@ -1,0 +1,6 @@
+framework module TestniPod {
+  umbrella header "TestniPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

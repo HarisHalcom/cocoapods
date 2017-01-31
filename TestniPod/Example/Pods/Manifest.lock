@@ -1,0 +1,16 @@
+PODS:
+  - TestniPod (0.1.0)
+
+DEPENDENCIES:
+  - TestniPod (from `../`)
+
+EXTERNAL SOURCES:
+  TestniPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TestniPod: 8c5a168c0bcb2ffbe6cdc94e9b343ce1b31a9871
+
+PODFILE CHECKSUM: c36e59159723b867cab5b5f5a339bc904ce8e3f0
+
+COCOAPODS: 1.2.0
